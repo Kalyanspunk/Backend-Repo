@@ -1,0 +1,6 @@
+step 1 : npm init
+step 2 : fill all the details in json
+step 3 : package.json file created
+step 4 : Add type:module in package.json if your using ECMA
+step 5 : Go to npm documentation and install the required modules and use those functionalities in your project.
+step 6 : Never skip the documentation
