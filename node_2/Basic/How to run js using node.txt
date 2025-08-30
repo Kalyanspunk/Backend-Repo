@@ -1,2 +1,0 @@
-step 1: cd directory
-step 2: node index.js
